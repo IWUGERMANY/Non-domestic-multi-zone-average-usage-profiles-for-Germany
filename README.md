@@ -7,7 +7,7 @@ By comparing the net energy demands for the three simulations (M, S and S+), it 
 
 In this repository multi-zone average usage profiles for non-domestic building usage categories in Germany are provided. These multi-zone average usage profiles allow the simulation of single-zone building models while at the same time reduing the "single-zone" uncertainty compared to a multi-zone approache drastically.
 
-The Concept of the typology was first published at the [eceee Summerstudy 2022](https://www.eceee.org/summerstudy/) in a peer-reviewed article, availble in the [proceedings](https://www.researchgate.net).
+The Concept of the multi-zone average usage profiles for non-domestic building usage categories in Germany was first published at the [eceee Summerstudy 2024](https://www.eceee.org/summerstudy/) in a peer-reviewed article, available in the [proceedings](https://www.researchgate.net/profile/Julian-Bischof).
 
 ---
 ## How to cite
